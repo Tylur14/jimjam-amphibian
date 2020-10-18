@@ -1,0 +1,4906 @@
+fileFormatVersion: 2
+guid: 075d572effe79e640a99ee609966dc56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5927244112758318235
+    second: urizen-onebit-fantasy-medieval_0
+  - first:
+      213: -6722302250692840244
+    second: urizen-onebit-fantasy-medieval_1
+  - first:
+      213: -8402066935946477183
+    second: urizen-onebit-fantasy-medieval_2
+  - first:
+      213: -3825916835484835539
+    second: urizen-onebit-fantasy-medieval_3
+  - first:
+      213: -5993293441542269058
+    second: urizen-onebit-fantasy-medieval_4
+  - first:
+      213: -4830139267740479636
+    second: urizen-onebit-fantasy-medieval_5
+  - first:
+      213: 8074891126845869820
+    second: urizen-onebit-fantasy-medieval_6
+  - first:
+      213: -8114418329083784084
+    second: urizen-onebit-fantasy-medieval_7
+  - first:
+      213: -275493336820276690
+    second: urizen-onebit-fantasy-medieval_8
+  - first:
+      213: 900774290446683101
+    second: urizen-onebit-fantasy-medieval_9
+  - first:
+      213: 1449242502932021085
+    second: urizen-onebit-fantasy-medieval_10
+  - first:
+      213: -705875251019033026
+    second: urizen-onebit-fantasy-medieval_11
+  - first:
+      213: 6249236229298412533
+    second: urizen-onebit-fantasy-medieval_12
+  - first:
+      213: -739505122862533643
+    second: urizen-onebit-fantasy-medieval_13
+  - first:
+      213: 6069549459343449028
+    second: urizen-onebit-fantasy-medieval_14
+  - first:
+      213: -9096349828656193018
+    second: urizen-onebit-fantasy-medieval_15
+  - first:
+      213: -6499431374745796531
+    second: urizen-onebit-fantasy-medieval_16
+  - first:
+      213: 1045168051902364718
+    second: urizen-onebit-fantasy-medieval_17
+  - first:
+      213: 3132262767800547323
+    second: urizen-onebit-fantasy-medieval_18
+  - first:
+      213: 8547591207535356391
+    second: urizen-onebit-fantasy-medieval_19
+  - first:
+      213: 4868296930478914669
+    second: urizen-onebit-fantasy-medieval_20
+  - first:
+      213: -4965492452246208746
+    second: urizen-onebit-fantasy-medieval_21
+  - first:
+      213: 3676696383453359687
+    second: urizen-onebit-fantasy-medieval_22
+  - first:
+      213: -3594043755644908594
+    second: urizen-onebit-fantasy-medieval_23
+  - first:
+      213: 5569397054284695758
+    second: urizen-onebit-fantasy-medieval_24
+  - first:
+      213: 5153491426901680167
+    second: urizen-onebit-fantasy-medieval_25
+  - first:
+      213: 5002958767203362130
+    second: urizen-onebit-fantasy-medieval_26
+  - first:
+      213: -7453922904779218472
+    second: urizen-onebit-fantasy-medieval_27
+  - first:
+      213: 5683827164860878956
+    second: urizen-onebit-fantasy-medieval_28
+  - first:
+      213: -6933281010327714104
+    second: urizen-onebit-fantasy-medieval_29
+  - first:
+      213: -1957342813335857557
+    second: urizen-onebit-fantasy-medieval_30
+  - first:
+      213: -3717070571579694851
+    second: urizen-onebit-fantasy-medieval_31
+  - first:
+      213: -8384531938226474770
+    second: urizen-onebit-fantasy-medieval_32
+  - first:
+      213: -6527141601412168198
+    second: urizen-onebit-fantasy-medieval_33
+  - first:
+      213: -6304446630857288937
+    second: urizen-onebit-fantasy-medieval_34
+  - first:
+      213: -8018277241194042509
+    second: urizen-onebit-fantasy-medieval_35
+  - first:
+      213: -4731688204378333741
+    second: urizen-onebit-fantasy-medieval_36
+  - first:
+      213: 749404841361709625
+    second: urizen-onebit-fantasy-medieval_37
+  - first:
+      213: -6310169367406125529
+    second: urizen-onebit-fantasy-medieval_38
+  - first:
+      213: -5461882627159247600
+    second: urizen-onebit-fantasy-medieval_39
+  - first:
+      213: 1064437634763275647
+    second: urizen-onebit-fantasy-medieval_40
+  - first:
+      213: -6107389311503034711
+    second: urizen-onebit-fantasy-medieval_41
+  - first:
+      213: -2001189840460226733
+    second: urizen-onebit-fantasy-medieval_42
+  - first:
+      213: 2374068328242587227
+    second: urizen-onebit-fantasy-medieval_43
+  - first:
+      213: 1253541561785196395
+    second: urizen-onebit-fantasy-medieval_44
+  - first:
+      213: 3117295044881946581
+    second: urizen-onebit-fantasy-medieval_45
+  - first:
+      213: 4496325136384798312
+    second: urizen-onebit-fantasy-medieval_46
+  - first:
+      213: 200387846356621333
+    second: urizen-onebit-fantasy-medieval_47
+  - first:
+      213: -7262287647978674425
+    second: urizen-onebit-fantasy-medieval_48
+  - first:
+      213: -3172182754684431849
+    second: urizen-onebit-fantasy-medieval_49
+  - first:
+      213: -6314913434659212455
+    second: urizen-onebit-fantasy-medieval_50
+  - first:
+      213: -5457319119036633666
+    second: urizen-onebit-fantasy-medieval_51
+  - first:
+      213: -8072468525863533480
+    second: urizen-onebit-fantasy-medieval_52
+  - first:
+      213: 5674195406140899982
+    second: urizen-onebit-fantasy-medieval_53
+  - first:
+      213: 7231547910965681145
+    second: urizen-onebit-fantasy-medieval_54
+  - first:
+      213: 5761648717846473345
+    second: urizen-onebit-fantasy-medieval_55
+  - first:
+      213: -2380537120106539731
+    second: urizen-onebit-fantasy-medieval_56
+  - first:
+      213: 4894247883337327964
+    second: urizen-onebit-fantasy-medieval_57
+  - first:
+      213: -4447984314374292708
+    second: urizen-onebit-fantasy-medieval_58
+  - first:
+      213: -4014572919893904714
+    second: urizen-onebit-fantasy-medieval_59
+  - first:
+      213: 7958573264091009147
+    second: urizen-onebit-fantasy-medieval_60
+  - first:
+      213: 3699871716989859596
+    second: urizen-onebit-fantasy-medieval_61
+  - first:
+      213: -4875870697133077255
+    second: urizen-onebit-fantasy-medieval_62
+  - first:
+      213: 8702208087599172759
+    second: urizen-onebit-fantasy-medieval_63
+  - first:
+      213: -9070687556496541003
+    second: urizen-onebit-fantasy-medieval_64
+  - first:
+      213: -7086050925617600773
+    second: urizen-onebit-fantasy-medieval_65
+  - first:
+      213: 3036337601218139997
+    second: urizen-onebit-fantasy-medieval_66
+  - first:
+      213: 988208441717305665
+    second: urizen-onebit-fantasy-medieval_67
+  - first:
+      213: 5541032010682113316
+    second: urizen-onebit-fantasy-medieval_68
+  - first:
+      213: 8510113657096290896
+    second: urizen-onebit-fantasy-medieval_69
+  - first:
+      213: 5202735198386134462
+    second: urizen-onebit-fantasy-medieval_70
+  - first:
+      213: 338550131961783700
+    second: urizen-onebit-fantasy-medieval_71
+  - first:
+      213: 3749988732113003687
+    second: urizen-onebit-fantasy-medieval_72
+  - first:
+      213: 721032286226224704
+    second: urizen-onebit-fantasy-medieval_73
+  - first:
+      213: 8249890449045919783
+    second: urizen-onebit-fantasy-medieval_74
+  - first:
+      213: -7630057799614986852
+    second: urizen-onebit-fantasy-medieval_75
+  - first:
+      213: -9139523199308228223
+    second: urizen-onebit-fantasy-medieval_76
+  - first:
+      213: -797548787586486495
+    second: urizen-onebit-fantasy-medieval_77
+  - first:
+      213: -8327233466685168767
+    second: urizen-onebit-fantasy-medieval_78
+  - first:
+      213: -6398230994825616600
+    second: urizen-onebit-fantasy-medieval_79
+  - first:
+      213: -1084683827002143142
+    second: urizen-onebit-fantasy-medieval_80
+  - first:
+      213: -283446347388848391
+    second: urizen-onebit-fantasy-medieval_81
+  - first:
+      213: -691308839795443372
+    second: urizen-onebit-fantasy-medieval_82
+  - first:
+      213: -8564542973722677323
+    second: urizen-onebit-fantasy-medieval_83
+  - first:
+      213: -1909014915673633032
+    second: urizen-onebit-fantasy-medieval_84
+  - first:
+      213: 6197812514805749364
+    second: urizen-onebit-fantasy-medieval_85
+  - first:
+      213: 2737613575526247889
+    second: urizen-onebit-fantasy-medieval_86
+  - first:
+      213: 5683229915846951844
+    second: urizen-onebit-fantasy-medieval_87
+  - first:
+      213: -887391354732257138
+    second: urizen-onebit-fantasy-medieval_88
+  - first:
+      213: 8320121512282046440
+    second: urizen-onebit-fantasy-medieval_89
+  - first:
+      213: -2032960557198936872
+    second: urizen-onebit-fantasy-medieval_90
+  - first:
+      213: 2461392684574752811
+    second: urizen-onebit-fantasy-medieval_91
+  - first:
+      213: -2982467595861829227
+    second: urizen-onebit-fantasy-medieval_92
+  - first:
+      213: 8276724630729060630
+    second: urizen-onebit-fantasy-medieval_93
+  - first:
+      213: -8995212565152919193
+    second: urizen-onebit-fantasy-medieval_94
+  - first:
+      213: -7749289440187721981
+    second: urizen-onebit-fantasy-medieval_95
+  - first:
+      213: -5724937364587009768
+    second: urizen-onebit-fantasy-medieval_96
+  - first:
+      213: 6962804707743761789
+    second: urizen-onebit-fantasy-medieval_97
+  - first:
+      213: 7066693271130205901
+    second: urizen-onebit-fantasy-medieval_98
+  - first:
+      213: -7494462815609146954
+    second: urizen-onebit-fantasy-medieval_99
+  - first:
+      213: 8752627300328676680
+    second: urizen-onebit-fantasy-medieval_100
+  - first:
+      213: 3398392677055049133
+    second: urizen-onebit-fantasy-medieval_101
+  - first:
+      213: 1473217633526268377
+    second: urizen-onebit-fantasy-medieval_102
+  - first:
+      213: 8220431356387714090
+    second: urizen-onebit-fantasy-medieval_103
+  - first:
+      213: 3899656757410909168
+    second: urizen-onebit-fantasy-medieval_104
+  - first:
+      213: 6786827456268057721
+    second: urizen-onebit-fantasy-medieval_105
+  - first:
+      213: -915752198873151084
+    second: urizen-onebit-fantasy-medieval_106
+  - first:
+      213: 2037959531357453163
+    second: urizen-onebit-fantasy-medieval_107
+  - first:
+      213: 8850145894079707958
+    second: urizen-onebit-fantasy-medieval_108
+  - first:
+      213: -5481745898918228930
+    second: urizen-onebit-fantasy-medieval_109
+  - first:
+      213: -1364205723748971551
+    second: urizen-onebit-fantasy-medieval_110
+  - first:
+      213: 7281096149197786472
+    second: urizen-onebit-fantasy-medieval_111
+  - first:
+      213: -1864632345984345174
+    second: urizen-onebit-fantasy-medieval_112
+  - first:
+      213: 8223400849396326007
+    second: urizen-onebit-fantasy-medieval_113
+  - first:
+      213: 4637565451839233161
+    second: urizen-onebit-fantasy-medieval_114
+  - first:
+      213: -8849047130908914401
+    second: urizen-onebit-fantasy-medieval_115
+  - first:
+      213: 7646009547683265287
+    second: urizen-onebit-fantasy-medieval_116
+  - first:
+      213: 2272773526139037557
+    second: urizen-onebit-fantasy-medieval_117
+  - first:
+      213: 1380444824754270864
+    second: urizen-onebit-fantasy-medieval_118
+  - first:
+      213: -7320792359018540899
+    second: urizen-onebit-fantasy-medieval_119
+  - first:
+      213: 5427085510048966597
+    second: urizen-onebit-fantasy-medieval_120
+  - first:
+      213: 5973821412962293220
+    second: urizen-onebit-fantasy-medieval_121
+  - first:
+      213: 7919765362552975825
+    second: urizen-onebit-fantasy-medieval_122
+  - first:
+      213: 2013015514040740609
+    second: urizen-onebit-fantasy-medieval_123
+  - first:
+      213: -4789696520944920030
+    second: urizen-onebit-fantasy-medieval_124
+  - first:
+      213: 6734523512162882362
+    second: urizen-onebit-fantasy-medieval_125
+  - first:
+      213: -4989489214933549025
+    second: urizen-onebit-fantasy-medieval_126
+  - first:
+      213: 2877378296287416260
+    second: urizen-onebit-fantasy-medieval_127
+  - first:
+      213: 2051862774712179927
+    second: urizen-onebit-fantasy-medieval_128
+  - first:
+      213: 6188442594338403766
+    second: urizen-onebit-fantasy-medieval_129
+  - first:
+      213: 2521282162220719160
+    second: urizen-onebit-fantasy-medieval_130
+  - first:
+      213: -1957799666169203206
+    second: urizen-onebit-fantasy-medieval_131
+  - first:
+      213: 1489199204340937239
+    second: urizen-onebit-fantasy-medieval_132
+  - first:
+      213: -2581639401510260524
+    second: urizen-onebit-fantasy-medieval_133
+  - first:
+      213: 3663323797524895512
+    second: urizen-onebit-fantasy-medieval_134
+  - first:
+      213: 5241473079828770955
+    second: urizen-onebit-fantasy-medieval_135
+  - first:
+      213: 3792091019707250931
+    second: urizen-onebit-fantasy-medieval_136
+  - first:
+      213: -6598570759206768926
+    second: urizen-onebit-fantasy-medieval_137
+  - first:
+      213: 3365183200064722202
+    second: urizen-onebit-fantasy-medieval_138
+  - first:
+      213: 3530159293588553708
+    second: urizen-onebit-fantasy-medieval_139
+  - first:
+      213: -1024101345012802647
+    second: urizen-onebit-fantasy-medieval_140
+  - first:
+      213: -906947706868624127
+    second: urizen-onebit-fantasy-medieval_141
+  - first:
+      213: 2180610261813653890
+    second: urizen-onebit-fantasy-medieval_142
+  - first:
+      213: 1819897442781879916
+    second: urizen-onebit-fantasy-medieval_143
+  - first:
+      213: -4918144305102928544
+    second: urizen-onebit-fantasy-medieval_144
+  - first:
+      213: 8685912569147009924
+    second: urizen-onebit-fantasy-medieval_145
+  - first:
+      213: -6944863343832545531
+    second: urizen-onebit-fantasy-medieval_146
+  - first:
+      213: 234787621764526511
+    second: urizen-onebit-fantasy-medieval_147
+  - first:
+      213: -4956952394340387513
+    second: urizen-onebit-fantasy-medieval_148
+  - first:
+      213: 8610040572453864681
+    second: urizen-onebit-fantasy-medieval_149
+  - first:
+      213: -1286290548755705716
+    second: urizen-onebit-fantasy-medieval_150
+  - first:
+      213: 1207460536863502407
+    second: urizen-onebit-fantasy-medieval_151
+  - first:
+      213: -8867374584437680781
+    second: urizen-onebit-fantasy-medieval_152
+  - first:
+      213: 2276223544067396150
+    second: urizen-onebit-fantasy-medieval_153
+  - first:
+      213: 5463422424443299084
+    second: urizen-onebit-fantasy-medieval_154
+  - first:
+      213: -7157344005058357531
+    second: urizen-onebit-fantasy-medieval_155
+  - first:
+      213: -3645755584827268572
+    second: urizen-onebit-fantasy-medieval_156
+  - first:
+      213: 3822331675158540349
+    second: urizen-onebit-fantasy-medieval_157
+  - first:
+      213: 1940148389386888207
+    second: urizen-onebit-fantasy-medieval_158
+  - first:
+      213: 6457103548781358922
+    second: urizen-onebit-fantasy-medieval_159
+  - first:
+      213: -7717041896997405102
+    second: urizen-onebit-fantasy-medieval_160
+  - first:
+      213: -4894041230282244008
+    second: urizen-onebit-fantasy-medieval_161
+  - first:
+      213: -119073452415777705
+    second: urizen-onebit-fantasy-medieval_162
+  - first:
+      213: -1061741655068946911
+    second: urizen-onebit-fantasy-medieval_163
+  - first:
+      213: 690375701284062586
+    second: urizen-onebit-fantasy-medieval_164
+  - first:
+      213: -1475341524415103902
+    second: urizen-onebit-fantasy-medieval_165
+  - first:
+      213: 5424727491797256716
+    second: urizen-onebit-fantasy-medieval_166
+  - first:
+      213: -7221847718450011505
+    second: urizen-onebit-fantasy-medieval_167
+  - first:
+      213: 1474593356166241506
+    second: urizen-onebit-fantasy-medieval_168
+  - first:
+      213: 1980137343688598320
+    second: urizen-onebit-fantasy-medieval_169
+  - first:
+      213: 5505429386523331081
+    second: urizen-onebit-fantasy-medieval_170
+  - first:
+      213: -5071016158210322543
+    second: urizen-onebit-fantasy-medieval_171
+  - first:
+      213: -6567143933722231255
+    second: urizen-onebit-fantasy-medieval_172
+  - first:
+      213: -3324478199399944025
+    second: urizen-onebit-fantasy-medieval_173
+  - first:
+      213: 8130450424978788795
+    second: urizen-onebit-fantasy-medieval_174
+  - first:
+      213: 3372602790575174194
+    second: urizen-onebit-fantasy-medieval_175
+  - first:
+      213: -2627092998495178325
+    second: urizen-onebit-fantasy-medieval_176
+  - first:
+      213: 705468122402113489
+    second: urizen-onebit-fantasy-medieval_177
+  - first:
+      213: -3420188948000387945
+    second: urizen-onebit-fantasy-medieval_178
+  - first:
+      213: 5753406521207060781
+    second: urizen-onebit-fantasy-medieval_179
+  - first:
+      213: 6480062419348751532
+    second: urizen-onebit-fantasy-medieval_180
+  - first:
+      213: 17424651250219408
+    second: urizen-onebit-fantasy-medieval_181
+  - first:
+      213: 7452292825480051471
+    second: urizen-onebit-fantasy-medieval_182
+  - first:
+      213: -3770905707272340340
+    second: urizen-onebit-fantasy-medieval_183
+  - first:
+      213: -7381864023164385017
+    second: urizen-onebit-fantasy-medieval_184
+  - first:
+      213: -5353164862320020213
+    second: urizen-onebit-fantasy-medieval_185
+  - first:
+      213: -6617367221903270459
+    second: urizen-onebit-fantasy-medieval_186
+  - first:
+      213: 7965813411725476135
+    second: urizen-onebit-fantasy-medieval_187
+  - first:
+      213: 6323858651727757479
+    second: urizen-onebit-fantasy-medieval_188
+  - first:
+      213: -3718918322763780170
+    second: urizen-onebit-fantasy-medieval_189
+  - first:
+      213: 7998013633872770147
+    second: urizen-onebit-fantasy-medieval_190
+  - first:
+      213: 1707421166775120948
+    second: urizen-onebit-fantasy-medieval_191
+  - first:
+      213: 2279065163326757677
+    second: urizen-onebit-fantasy-medieval_192
+  - first:
+      213: 8529313869824983928
+    second: urizen-onebit-fantasy-medieval_193
+  - first:
+      213: -5921525990099754672
+    second: urizen-onebit-fantasy-medieval_194
+  - first:
+      213: -4013023404049118602
+    second: urizen-onebit-fantasy-medieval_195
+  - first:
+      213: 6826458738812194312
+    second: urizen-onebit-fantasy-medieval_196
+  - first:
+      213: 4385312670975452532
+    second: urizen-onebit-fantasy-medieval_197
+  - first:
+      213: -8688183263160983459
+    second: urizen-onebit-fantasy-medieval_198
+  - first:
+      213: -7757317709221916042
+    second: urizen-onebit-fantasy-medieval_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd30222e23ebda0800000000000000
+      internalID: -5927244112758318235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4f4a228b595b2a0800000000000000
+      internalID: -6722302250692840244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810bd743acd56b80800000000000000
+      internalID: -8402066935946477183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d216db0a8ec97eac0800000000000000
+      internalID: -3825916835484835539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77d1366e5b83dca0800000000000000
+      internalID: -5993293441542269058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc9aa5de5e7fcb0800000000000000
+      internalID: -4830139267740479636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe0a9f72b6cf0070800000000000000
+      internalID: 8074891126845869820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64da00958bc36f80800000000000000
+      internalID: -8114418329083784084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2227d015404d2cf0800000000000000
+      internalID: -275493336820276690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb01e4d171308c00800000000000000
+      internalID: 900774290446683101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f39a4c06ebc1410800000000000000
+      internalID: 1449242502932021085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e365547f23a3436f0800000000000000
+      internalID: -705875251019033026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_12
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb55dc9d3fb9b650800000000000000
+      internalID: 6249236229298412533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f372324200ccb5f0800000000000000
+      internalID: -739505122862533643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb94de431f5b3450800000000000000
+      internalID: 6069549459343449028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602234e760643c180800000000000000
+      internalID: -9096349828656193018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_16
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d408f32a9916dc5a0800000000000000
+      internalID: -6499431374745796531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3a304ece218e00800000000000000
+      internalID: 1045168051902364718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_18
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7fee15468087b20800000000000000
+      internalID: 3132262767800547323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_19
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 354
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a56a8ae42f9670800000000000000
+      internalID: 8547591207535356391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cf152d34aaf8340800000000000000
+      internalID: 4868296930478914669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f3bf84ce6071bb0800000000000000
+      internalID: -4965492452246208746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e63ba71ef360330800000000000000
+      internalID: 3676696383453359687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb039d0f346f1ec0800000000000000
+      internalID: -3594043755644908594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec80fb9ec197a4d40800000000000000
+      internalID: 5569397054284695758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ee7df521e48740800000000000000
+      internalID: 5153491426901680167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552511fd741e6540800000000000000
+      internalID: 5002958767203362130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ac755c985e8890800000000000000
+      internalID: -7453922904779218472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_28
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609f3631b201ee40800000000000000
+      internalID: 5683827164860878956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6847bb7a908cf90800000000000000
+      internalID: -6933281010327714104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d37be41f16d4e0800000000000000
+      internalID: -1957342813335857557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df02fef42005a6cc0800000000000000
+      internalID: -3717070571579694851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_32
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f71610a824ab80800000000000000
+      internalID: -8384531938226474770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_33
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af54729bb4fea65a0800000000000000
+      internalID: -6527141601412168198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_34
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d75e013b1288a0800000000000000
+      internalID: -6304446630857288937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_35
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ba700f45b59b090800000000000000
+      internalID: -8018277241194042509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_36
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd9f1ec5aaa55eb0800000000000000
+      internalID: -4731688204378333741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_37
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a92529bbb666a00800000000000000
+      internalID: 749404841361709625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_38
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ed43f9466cd68a0800000000000000
+      internalID: -6310169367406125529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_39
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015bb4b50be7334b0800000000000000
+      internalID: -5461882627159247600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d3f91a364a5ce00800000000000000
+      internalID: 1064437634763275647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a618de87c13e3ba0800000000000000
+      internalID: -6107389311503034711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f5f3f51785a34e0800000000000000
+      internalID: -2001189840460226733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a761f09262f020800000000000000
+      internalID: 2374068328242587227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f156da869756110800000000000000
+      internalID: 1253541561785196395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d71642c35bd24b20800000000000000
+      internalID: 3117295044881946581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_46
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e20e493e7266e30800000000000000
+      internalID: 4496325136384798312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518546f3fabe7c200800000000000000
+      internalID: 200387846356621333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_48
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70726858cdb273b90800000000000000
+      internalID: -7262287647978674425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_49
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7121a6077942af3d0800000000000000
+      internalID: -3172182754684431849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_50
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953bbc360bbec58a0800000000000000
+      internalID: -6314913434659212455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdafd3ec25b344b0800000000000000
+      internalID: -5457319119036633666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854026f35a4d8ff80800000000000000
+      internalID: -8072468525863533480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_53
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e828e21a8aacebe40800000000000000
+      internalID: 5674195406140899982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_54
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbd359b28e9b5460800000000000000
+      internalID: 7231547910965681145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_55
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ae2db7bfc75ff40800000000000000
+      internalID: 5761648717846473345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_56
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d251b651a12a6fed0800000000000000
+      internalID: -2380537120106539731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_57
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c556701e48cdbe340800000000000000
+      internalID: 4894247883337327964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_58
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bf53f15d59542c0800000000000000
+      internalID: -4447984314374292708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_59
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 276
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b232d0133f5948c0800000000000000
+      internalID: -4014572919893904714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d015a738827e60800000000000000
+      internalID: 7958573264091009147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07f1bd49b5985330800000000000000
+      internalID: 3699871716989859596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc85a63f6d655cb0800000000000000
+      internalID: -4875870697133077255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c41ee362474c870800000000000000
+      internalID: 8702208087599172759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bab776d9b17e1280800000000000000
+      internalID: -9070687556496541003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf62c360a3a49ad90800000000000000
+      internalID: -7086050925617600773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_66
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d4ca06fc332a20800000000000000
+      internalID: 3036337601218139997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413a9c8752d6bd00800000000000000
+      internalID: 988208441717305665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_68
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d96cd8143b5ec40800000000000000
+      internalID: 5541032010682113316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_69
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052cc69584ff91670800000000000000
+      internalID: 8510113657096290896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd1a300914d33840800000000000000
+      internalID: 5202735198386134462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_71
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4956e322d85c2b400800000000000000
+      internalID: 338550131961783700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_72
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4205132e2aa0430800000000000000
+      internalID: 3749988732113003687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_73
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0461a1c4b0f910a00800000000000000
+      internalID: 721032286226224704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_74
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728154357af7d7270800000000000000
+      internalID: 8249890449045919783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_75
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9500466bd69c1690800000000000000
+      internalID: -7630057799614986852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_76
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899ac0d214e92180800000000000000
+      internalID: -9139523199308228223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_77
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f2dd07a998ee4f0800000000000000
+      internalID: -797548787586486495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_78
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1836c781849bf6c80800000000000000
+      internalID: -8327233466685168767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_79
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 237
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823668a3fcae437a0800000000000000
+      internalID: -6398230994825616600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e0de56ecd62f0f0800000000000000
+      internalID: -1084683827002143142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6710f7c0ff01cf0800000000000000
+      internalID: -283446347388848391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_82
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459b7edd54af766f0800000000000000
+      internalID: -691308839795443372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_83
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf21b3da81a42980800000000000000
+      internalID: -8564542973722677323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_84
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec9507c01d185e0800000000000000
+      internalID: -1909014915673633032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_85
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476977115ad030650800000000000000
+      internalID: 6197812514805749364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_86
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd678dda05fdf520800000000000000
+      internalID: 2737613575526247889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_87
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a34ee65f73eede40800000000000000
+      internalID: 5683229915846951844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_88
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806e64b34a5fa3f0800000000000000
+      internalID: -887391354732257138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_89
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef38abfe62077370800000000000000
+      internalID: 8320121512282046440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_90
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4f6c1f42979c3e0800000000000000
+      internalID: -2032960557198936872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c2d80b9f982220800000000000000
+      internalID: 2461392684574752811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_92
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599da8af5852c96d0800000000000000
+      internalID: -2982467595861829227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_93
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f45e1335dcd270800000000000000
+      internalID: 8276724630729060630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_94
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7611ee6a4d59a2380800000000000000
+      internalID: -8995212565152919193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_95
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307dce7cf4ef47490800000000000000
+      internalID: -7749289440187721981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_96
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8192e668ccfec80b0800000000000000
+      internalID: -5724937364587009768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_97
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d750c7dbdf9d0a060800000000000000
+      internalID: 6962804707743761789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_98
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceeb52d610f11260800000000000000
+      internalID: 7066693271130205901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_99
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 198
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13e3dc6c15ef790800000000000000
+      internalID: -7494462815609146954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d1a7ff724977970800000000000000
+      internalID: 8752627300328676680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_101
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada7236224892f20800000000000000
+      internalID: 3398392677055049133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1cc2bd1abe17410800000000000000
+      internalID: 1473217633526268377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_103
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24e8f1d3c6d41270800000000000000
+      internalID: 8220431356387714090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbcd6bd82d5e1630800000000000000
+      internalID: 3899656757410909168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_105
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb9b20d97af2e50800000000000000
+      internalID: 6786827456268057721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_106
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49902eb1a389a43f0800000000000000
+      internalID: -915752198873151084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_107
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bbe2d6569484c10800000000000000
+      internalID: 2037959531357453163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb003fcc802da70800000000000000
+      internalID: 8850145894079707958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_109
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c4602062dece3b0800000000000000
+      internalID: -5481745898918228930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_110
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb43634f1e511de0800000000000000
+      internalID: -1364205723748971551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d066cee56ab0560800000000000000
+      internalID: 7281096149197786472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_112
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab56e4b2ce7f16e0800000000000000
+      internalID: -1864632345984345174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_113
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed9e9c0836f1270800000000000000
+      internalID: 8223400849396326007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_114
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c50832531fb5040800000000000000
+      internalID: 4637565451839233161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_115
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d0c79c48ed13580800000000000000
+      internalID: -8849047130908914401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_116
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bf7ee5c251c1a60800000000000000
+      internalID: 7646009547683265287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_117
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577ed68fa738a8f10800000000000000
+      internalID: 2272773526139037557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_118
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09231831143582310800000000000000
+      internalID: 1380444824754270864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_119
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d905e4ef222576a90800000000000000
+      internalID: -7320792359018540899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c763287481e05b40800000000000000
+      internalID: 5427085510048966597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e55d37ace647e250800000000000000
+      internalID: 5973821412962293220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b963f2a8a8ed60800000000000000
+      internalID: 7919765362552975825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bafb1d1faafeb10800000000000000
+      internalID: 2013015514040740609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_124
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a572f1464978db0800000000000000
+      internalID: -4789696520944920030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_125
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331cf90475d57d50800000000000000
+      internalID: 6734523512162882362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_126
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f104e359ef5c1cab0800000000000000
+      internalID: -4989489214933549025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_127
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf41a2c0508ee720800000000000000
+      internalID: 2877378296287416260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_128
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc1196825ea97c10800000000000000
+      internalID: 2051862774712179927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_129
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5ff6470c3c1e550800000000000000
+      internalID: 6188442594338403766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_130
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd1b9a4c46df220800000000000000
+      internalID: 2521282162220719160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_131
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af53b94939f74d4e0800000000000000
+      internalID: -1957799666169203206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_132
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712398649c2baa410800000000000000
+      internalID: 1489199204340937239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_133
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d034d674ac2c2cd0800000000000000
+      internalID: -2581639401510260524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_134
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d4b0b59db6d230800000000000000
+      internalID: 3663323797524895512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_135
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8077fedef37db840800000000000000
+      internalID: 5241473079828770955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_136
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f87999e0b630a430800000000000000
+      internalID: 3792091019707250931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_137
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee6330fada2d64a0800000000000000
+      internalID: -6598570759206768926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_138
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1558fb7a4883be20800000000000000
+      internalID: 3365183200064722202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_139
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb3e68c25adf030800000000000000
+      internalID: 3530159293588553708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab138ca049a9c1f0800000000000000
+      internalID: -1024101345012802647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_141
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1059d36addfd963f0800000000000000
+      internalID: -906947706868624127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_142
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28179f0da75134e10800000000000000
+      internalID: 2180610261813653890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_143
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed7acf413914910800000000000000
+      internalID: 1819897442781879916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_144
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ca3cdfcd3fbbb0800000000000000
+      internalID: -4918144305102928544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_145
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bab12367f8a8870800000000000000
+      internalID: 8685912569147009924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_146
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507ca319593ee9f90800000000000000
+      internalID: -6944863343832545531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_147
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1fee81912224300800000000000000
+      internalID: 234787621764526511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_148
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745b1d67f0e553bb0800000000000000
+      internalID: -4956952394340387513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_149
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e440de58420d7770800000000000000
+      internalID: 8610040572453864681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_150
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80597b9f8d262ee0800000000000000
+      internalID: -1286290548755705716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_151
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7403d0cf5f2c1c010800000000000000
+      internalID: 1207460536863502407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_152
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375d34cfbc1c0f480800000000000000
+      internalID: -8867374584437680781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_153
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632948dd045c69f10800000000000000
+      internalID: 2276223544067396150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_154
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05a8d2afb9f1db40800000000000000
+      internalID: 5463422424443299084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_155
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e699337c810cac90800000000000000
+      internalID: -7157344005058357531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_156
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42269749c9ca76dc0800000000000000
+      internalID: -3645755584827268572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_157
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d307c8f2866ab0530800000000000000
+      internalID: 3822331675158540349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_158
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a3f84eaaccea10800000000000000
+      internalID: 1940148389386888207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_159
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 81
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe607677d3c9950800000000000000
+      internalID: 6457103548781358922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eb9a4084f87e490800000000000000
+      internalID: -7717041896997405102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_161
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85049e84e6fd41cb0800000000000000
+      internalID: -4894041230282244008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_162
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754049e6357f85ef0800000000000000
+      internalID: -119073452415777705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_163
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e416e079fe341f0800000000000000
+      internalID: -1061741655068946911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_164
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a750994ea05b49900800000000000000
+      internalID: 690375701284062586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_165
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cbad243b8868be0800000000000000
+      internalID: -1475341524415103902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_166
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0fdf89e0884b40800000000000000
+      internalID: 5424727491797256716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_167
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8262d753c7d6cb90800000000000000
+      internalID: -7221847718450011505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_168
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec907e38dec67410800000000000000
+      internalID: 1474593356166241506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_169
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0336b014c6cda7b10800000000000000
+      internalID: 1980137343688598320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_170
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a48b7abd6376c40800000000000000
+      internalID: 5505429386523331081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_171
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f8b97eba120a9b0800000000000000
+      internalID: -5071016158210322543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_172
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eff91f261dcd4a0800000000000000
+      internalID: -6567143933722231255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_173
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a07c3501b41dd1d0800000000000000
+      internalID: -3324478199399944025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_174
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d8c4a59925d070800000000000000
+      internalID: 8130450424978788795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_175
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23279b48e54edce20800000000000000
+      internalID: 3372602790575174194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_176
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba177c836d0ba8bd0800000000000000
+      internalID: -2627092998495178325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_177
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c32405835ac900800000000000000
+      internalID: 705468122402113489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_178
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c48b1d54c0980d0800000000000000
+      internalID: -3420188948000387945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_179
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 42
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2976f88fb438df40800000000000000
+      internalID: 5753406521207060781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_180
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca404a3007ecde950800000000000000
+      internalID: 6480062419348751532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_181
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099ba14c0a7ed3000800000000000000
+      internalID: 17424651250219408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_182
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b3ee047dcdb6760800000000000000
+      internalID: 7452292825480051471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_183
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf9840d3d0babc0800000000000000
+      internalID: -3770905707272340340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_184
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7090d0f18c95e8990800000000000000
+      internalID: -7381864023164385017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_185
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05ff458becb5b5b0800000000000000
+      internalID: -5353164862320020213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_186
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd542e62936a24a0800000000000000
+      internalID: -6617367221903270459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_187
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72180f0e7114c8e60800000000000000
+      internalID: 7965813411725476135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_188
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0830240fbd2c750800000000000000
+      internalID: 6323858651727757479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_189
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf29f63d7fb36cc0800000000000000
+      internalID: -3718918322763780170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_190
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364b7b35607aefe60800000000000000
+      internalID: 7998013633872770147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_191
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4343d9f318af1b710800000000000000
+      internalID: 1707421166775120948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_192
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b1f08e0bdd0af10800000000000000
+      internalID: 2279065163326757677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_193
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8730bbc36c53e5670800000000000000
+      internalID: 8529313869824983928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_194
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516cdf4c7382dda0800000000000000
+      internalID: -5921525990099754672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_195
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac256d970ee48c0800000000000000
+      internalID: -4013023404049118602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_196
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e03c80e047cbe50800000000000000
+      internalID: 6826458738812194312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_197
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e28ec3a2cbdc30800000000000000
+      internalID: 4385312670975452532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_198
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50abc7aa5f5d6780800000000000000
+      internalID: -8688183263160983459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urizen-onebit-fantasy-medieval_199
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6721bfbb4a8785490800000000000000
+      internalID: -7757317709221916042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
